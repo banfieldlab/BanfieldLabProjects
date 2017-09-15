@@ -7,11 +7,11 @@ Please slack an administrator with your username and the project name below to g
 
 #### Public
 
-- EukRep
+- [EukRep](https://github.com/banfieldlab/EukRep) - Classification of Eukaryotic and Prokaryotic sequences from metagenomic datasets
 
-- dRep
+- [dRep](https://github.com/MrOlm/drep) -  Dereplication of microbial genomes
 
-- iRep
+- [iRep](https://github.com/christophertbrown/iRep) - estimating bacteria replication rates based on population genome copy number variation
 
 
 #### Private
