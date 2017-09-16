@@ -1,7 +1,7 @@
 # BanfieldLabProjects
-An index describing the public and private repositories that Banfield lab members can request access to. 
+An index describing the public and private repositories created by Banfield lab members. 
 
-Please slack an administrator with your username and the project name below to get access.
+Please slack an administrator with your username and the project name below to get access to a listed private repository.
 
 ### Projects
 
