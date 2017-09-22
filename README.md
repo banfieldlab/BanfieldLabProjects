@@ -17,5 +17,7 @@ Please slack an administrator with your username and the project name below to g
 
 - [fix_assembly_errors](https://github.com/christophertbrown/fix_assembly_errors) - This repository contains scripts for microbial genome sequence curation. The key scripts are re_assemble_errors.py, ra2.py, and mapped.py. 
 
+- [pipeCoverage](https://github.com/MrOlm/pipeCoverage) - Quickly calculate coverage of sequences in a .sam file while retaining breadth information
+
 
 #### Private
