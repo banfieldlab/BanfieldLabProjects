@@ -19,5 +19,7 @@ Please slack an administrator with your username and the project name below to g
 
 - [pipeCoverage](https://github.com/MrOlm/pipeCoverage) - Quickly calculate coverage of sequences in a .sam file while retaining breadth information
 
+- [get_ncbi_genomes](https://github.com/alexanderjaffe/get_ncbi_genomes) - Download genomes from NCBI Genome database using compound queries.
+
 
 #### Private
